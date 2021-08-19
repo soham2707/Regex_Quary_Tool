@@ -1,4 +1,4 @@
-# Regex_Quary_Tool
+# Regex_Query_Tool
 We have developed a web application 🚀 REGEX QUERY TOOL 🚀
 
 • The Regex Query Tool is used to verify the regular expression and substitution patterns you enter will produce the desired results.
