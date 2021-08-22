@@ -59,7 +59,7 @@ DEVELOPERS
 
 Project Demo https://bit.ly/3yUgFdw :octocat:
 
-~THANK YOU~ :tada:
+~THANK YOU~ :tada::sparkling_heart:
 --------------------------------
 <p align="center"  >
     <meta charset="UTF-8">
